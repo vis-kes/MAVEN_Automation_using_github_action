@@ -17,6 +17,10 @@ public class MyCalculator {
 	{
 		return a/b;	
 	}
+	public void display() 
+	{
+		System.out.println("Hello GFG 14");
+	}
 
 	public static void main(String[] args) {
 
