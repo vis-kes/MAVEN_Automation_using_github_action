@@ -21,6 +21,10 @@ public class MyCalculator {
 	{
 		System.out.println("Hello GFG 14");
 	}
+	public void greetings() 
+	{
+		System.out.println("Hello from github");
+	}
 
 	public static void main(String[] args) {
 
